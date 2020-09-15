@@ -6,10 +6,14 @@
 
 # Skills
 [<img align="left" alt="Python" width="50px" src="https://lh3.googleusercontent.com/proxy/VyjAVUTf14-fkA2woElntj2xlP7Bvcbwww8eKWGJGsS_n3Pc3vWVVjlyZeMP9I1sKowuVk6jNLUJgSKj_Is6qwDo00qheHj7eD-bzdrpQWjewkwCmXU" />]
+[<img align="left" alt="R Programming" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />]
+[<img align="left" alt="SAS" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />]
+[<img align="left" alt="Tableau" width="50px" src="https://img.pngio.com/tableau-software-logo-e1502871850906-archetype-consulting-tableau-software-png-400_232.png" />]
+[<img align="left" alt="SPSS" width="50px" src="https://banner2.cleanpng.com/20180711/py/kisspng-spss-modeler-computer-icons-ibm-analytics-spss-5b46b0e4e32f78.8174220215313594609306.jpg" />]
+[<img align="left" alt="Google Tools" width="150px" src="https://www.faceofit.com/wp-content/uploads/2016/04/Google-Docs-Sheets-Slides.jpg" />]
 
 
 Connect with me:
-
 [<img align="left" alt="Jitendra Alim | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" />][GMail]
 
