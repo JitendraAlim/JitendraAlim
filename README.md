@@ -11,7 +11,9 @@
 [<img align="left" alt="SAS" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />][SAS]
 [<img align="left" alt="Tableau" width="50px" src="https://img.pngio.com/tableau-software-logo-e1502871850906-archetype-consulting-tableau-software-png-400_232.png" />][Tableau]
 [<img align="left" alt="SPSS" width="50px" src="https://banner2.cleanpng.com/20180711/py/kisspng-spss-modeler-computer-icons-ibm-analytics-spss-5b46b0e4e32f78.8174220215313594609306.jpg" />][SPSS]
-[<img align="left" alt="Google Tools" width="150px" src="https://www.faceofit.com/wp-content/uploads/2016/04/Google-Docs-Sheets-Slides.jpg" />][Google]
+[<img align="left alt="Google Sheets" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991114.svg" />][Google]
+[<img align="left alt="Google Docs" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991108.svg" />][Google]
+[<img align="left alt="Google Slides" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991117.svg" />][Google]
 <br></br>
   
 
