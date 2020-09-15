@@ -3,7 +3,10 @@
 - 🔭 I’m currently working on Data Science projects.
 - 🌱 I’m currently learning Supervied Learning, Unsupervised Learning, Deep Learning, Neural Networks and Artificial Intelligence.
 - 🔍 I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me: Mail me at <jitendrabalim@gmail.com>
+
+# Skills
+[<img align="left" alt="Python" width="50px" src="https://lh3.googleusercontent.com/proxy/VyjAVUTf14-fkA2woElntj2xlP7Bvcbwww8eKWGJGsS_n3Pc3vWVVjlyZeMP9I1sKowuVk6jNLUJgSKj_Is6qwDo00qheHj7eD-bzdrpQWjewkwCmXU" />]
+
 
 Connect with me:
 
