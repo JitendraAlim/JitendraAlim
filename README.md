@@ -14,9 +14,9 @@
 [<img align="left" alt="Google Tools" width="150px" src="https://www.faceofit.com/wp-content/uploads/2016/04/Google-Docs-Sheets-Slides.jpg" />][Google]
 <br></br>
 
-# Connect with me:  
-[<img align="left" alt="Jitendra Alim | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img aligh="left" alt="Jitendra Alim | Mail" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" />][GMail]
+# Connect with me
+[<img align="left" alt="Jitendra Alim | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img aligh="left" alt="Jitendra Alim | Mail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" />][GMail]
 
 [LinkedIn]: https://linkedin.com/in/jitendra-alim
 [GMail]: mailto:jitendrabalim@gmail.com
