@@ -15,7 +15,7 @@
 <br></br>
 
 # Connect with me
-[<img align="left" alt="Jitendra Alim | LinkedIn" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
+[<img align="left" alt="Jitendra Alim | LinkedIn" width="45px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][GMail]
 
 [LinkedIn]: https://linkedin.com/in/jitendra-alim
