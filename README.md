@@ -11,8 +11,9 @@
 [<img align="left" alt="Tableau" width="50px" src="https://img.pngio.com/tableau-software-logo-e1502871850906-archetype-consulting-tableau-software-png-400_232.png" />][Tableau]
 [<img align="left" alt="SPSS" width="50px" src="https://banner2.cleanpng.com/20180711/py/kisspng-spss-modeler-computer-icons-ibm-analytics-spss-5b46b0e4e32f78.8174220215313594609306.jpg" />][SPSS]
 [<img align="left" alt="Google Tools" width="150px" src="https://www.faceofit.com/wp-content/uploads/2016/04/Google-Docs-Sheets-Slides.jpg" />][Google]
-  
-Connect with me:  
+
+
+# Connect with me:  
 [<img align="left" alt="Jitendra Alim | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" />][GMail]
 
