@@ -20,8 +20,7 @@
 [<img align="left" alt="Google Slides" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991117.svg" />][Google Slides]
 [<img align="left" alt="Google Forms" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991110.svg" />][Google Forms]
 
-<br />  
-<br />  
+<br />   
 
 # Connect with me
 
@@ -39,7 +38,6 @@
 [MS Excel]: https://www.office.com
 [MS Word]: https://www.office.com
 [MS PowerPoint]: https://www.office.com
-
 [Google Sheets]: https://www.google.com/sheets/about
 [Google Docs]: https://www.google.com/docs/about
 [Google Slides]: https://www.google.com/slides/about
