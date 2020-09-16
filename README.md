@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Supervied Learning, Unsupervised Learning, Deep Learning, Neural Networks and Artificial Intelligence.
 - 🔍 I’m looking to collaborate on Data Science projects.
 
+#
 # Skills
-
 [<img align="left" alt="GitHub" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg" />][GitHub]
 [<img align="left" alt="Python" width="35px" src="https://lh3.googleusercontent.com/proxy/VyjAVUTf14-fkA2woElntj2xlP7Bvcbwww8eKWGJGsS_n3Pc3vWVVjlyZeMP9I1sKowuVk6jNLUJgSKj_Is6qwDo00qheHj7eD-bzdrpQWjewkwCmXU" />][Python]
 [<img align="left" alt="R Programming" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][R]
@@ -22,8 +22,8 @@
 
 <br />   
 
+#
 # Connect with me
-
 [<img align="left" alt="Jitendra Alim | LinkedIn" width="45px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][GMail]
 
