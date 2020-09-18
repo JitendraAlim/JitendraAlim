@@ -7,7 +7,7 @@
 #
 # Skills
 [<img align="left" alt="GitHub" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg" />][GitHub]
-[<img align="left" alt="Python" width="35px" src="https://lh3.googleusercontent.com/proxy/P-tzjP4KiRC4Wli9aT9XBT-LSjWFoBHbrgu7fP3GfLc6RQBl8kuslFjK0GiNgOMwgMX0w2PXRKqTj4NTAbVo9xhQyJnrmgm2HXR4pq0zjcu6_ATNsbk" />][Python]
+[<img align="left" alt="Python" width="35px" src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png" />][Python]
 [<img align="left" alt="R Programming" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][R]
 [<img align="left" alt="SAS" width="67.5px" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />][SAS]
 [<img align="left" alt="Tableau" width="47.5px" src="https://img.pngio.com/tableau-software-logo-e1502871850906-archetype-consulting-tableau-software-png-400_232.png" />][Tableau]
