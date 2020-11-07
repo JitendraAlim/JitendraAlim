@@ -6,7 +6,6 @@
 
 ---
 
-#
 # Skills
 [<img align="left" alt="GitHub" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg" />][GitHub]
 [<img align="left" alt="Python" width="35px" src="https://yellowconnection.com/wp-content/uploads/2019/12/PinClipart.com_snake-charmer-clipart_2691398.png" />][Python]
@@ -26,7 +25,6 @@
 
 ---
 
-#
 # Connect with me
 [<img align="left" alt="Jitendra Alim | LinkedIn" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][GMail]
