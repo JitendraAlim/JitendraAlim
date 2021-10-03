@@ -18,12 +18,12 @@
 [<img align="left" alt="MS PowerPoint" width="35px" src="https://image.flaticon.com/icons/png/512/732/732224.png" />][MS PowerPoint]
 [<img align="left" alt="Google Sheets" width="35px" src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" />][Google Sheets]
 [<img align="left" alt="Google Docs" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281760.png" />][Google Docs]
-[<img align="left" alt="Google Slides" width="35px" src="https://img-premium.flaticon.com/png/512/2875/premium/2875416.png" />][Google Slides]
+[<img align="left" alt="Google Slides" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281762.png" />][Google Slides]
 [<img align="left" alt="Google Forms" width="35px" src="https://cdn-icons-png.flaticon.com/512/2875/2875409.png" />][Google Forms]
 
-<br />  
+<br/>  
 
-#
+
 # Connect with me
 [<img align="left" alt="Jitendra Alim | LinkedIn" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
 [<img aligh="left" alt="Jitendra Alim | Mail" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][GMail]
