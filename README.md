@@ -25,8 +25,8 @@
 
 
 # Connect with me
-[<img align="left" alt="Jitendra Alim | LinkedIn" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />][LinkedIn]
-[<img aligh="left" alt="Jitendra Alim | Mail" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />][GMail]
+[<img align="left" alt="Jitendra Alim | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>][LinkedIn]
+[<img aligh="left" alt="Jitendra Alim | Mail" width="40px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />][GMail]
 
 [LinkedIn]: https://linkedin.com/in/jitendra-alim
 [GMail]: mailto:jitendrabalim@gmail.com
