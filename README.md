@@ -8,8 +8,8 @@
 #
 # Skills
 [<img align = "left" alt = "GitHub" width = "35px" src = "https://cdn-icons-png.flaticon.com/512/733/733609.png"/>][GitHub]
-[<img align = "left" alt = "Python" width = "35px" src = "https://yellowconnection.com/wp-content/uploads/2019/12/PinClipart.com_snake-charmer-clipart_2691398.png"/>][Python]
 [<img align = "left" alt = "R Programming" width = "40px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png"/>][R]
+[<img align = "left" alt = "Python" width = "35px" src = "https://cdn-icons-png.flaticon.com/128/919/919852.png"/>][Python]
 [<img align = "left" alt = "SAS" width = "67.5px" src = "https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png"/>][SAS]
 [<img align = "left" alt = "Tableau" width = "35px" src = "https://clipground.com/images/tableau-logo-png-2.png"/>][Tableau]
 [<img align = "left" alt = "SPSS" width = "35px" src = "https://logodix.com/logo/1598546.png"/>][SPSS]
